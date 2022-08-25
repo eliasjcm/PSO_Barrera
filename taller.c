@@ -1,3 +1,10 @@
+/* 
+    Trabajo en Clases: Estructuras de Sincronización
+    -Johan Calvo Vargas 2020297388
+    -Elías Castro Montero 2020098930
+    -Abiel Porras Garro 2020209597
+    -Fabián Rojas Arguedas 2019380107
+
 #include <stdio.h>
 #include <pthread.h>
 #include <stdlib.h>
