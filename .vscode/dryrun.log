@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/workspaces/PSO_Barrera'
+gcc -pthread barrera.c -o barrera && ./barrera
+make: Leaving directory '/workspaces/PSO_Barrera'
+ 

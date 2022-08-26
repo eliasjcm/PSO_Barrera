@@ -1,2 +1,2 @@
-make:
-	gcc -pthread taller.c -o taller && ./taller
+make barrera.c:
+	gcc -pthread barrera.c -o barrera && ./barrera
